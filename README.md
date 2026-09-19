@@ -31,6 +31,7 @@ Meu objetivo é evoluir de forma gradual, transformando conhecimento em prática
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### Planejado
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -81,8 +82,8 @@ Projeto acadêmico focado em desenvolvimento web interativo. Foi desenvolvido co
 
 ## 🎯 Objetivos profissionais
 
-- **Curto prazo:** criar os primeiros laboratórios práticos na AWS e documentar melhor meus projetos no GitHub.
-- **Médio prazo:** conquistar a certificação **AWS Cloud Practitioner** (e depois **Solutions Architect Associate**) e buscar a primeira oportunidade profissional em tecnologia/nuvem.
+- **Curto prazo:** criar os primeiros laboratórios práticos na AWS e documentar melhor meus projetos no GitHub. Conquistar a certificação **AWS Cloud Practitioner** (e depois **Solutions Architect Associate**).
+- **Médio prazo:** Buscar a primeira oportunidade profissional em tecnologia/nuvem.
 - **Longo prazo:** atuar como **Cloud Architect**, projetando soluções seguras, escaláveis, resilientes e com custos otimizados.
 
 ---
